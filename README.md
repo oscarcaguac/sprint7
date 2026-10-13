@@ -44,3 +44,6 @@ streamlit run app.py
 ```
 
 Abre en el navegador la dirección local que indique la terminal.
+
+##Link de render para ver la página web
+https://sprint7-7m3n.onrender.com 
